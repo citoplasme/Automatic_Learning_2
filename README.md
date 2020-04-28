@@ -16,13 +16,13 @@ Como se trata de um problema de classificação, o grande objetivo deste projeto
 
 ### Notebooks
 
-* [Exploração, Visualização e Tratamento dos Dados](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/EDA/eda.ipynb)
+* [Exploração, Visualização e Tratamento dos Dados](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/EDA/eda.ipynb)
 * [Modelos de Machine Learning](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/ML/)
   * [Não Supervisionados](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/ML/Nao_Supervisionados)
     * [K Means Clustering](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/ML/Nao_Supervisionados/K_Means_Clustering)
   * [Supervisionados](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/ML/Supervisionados)
-    * [SVM](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/ML/Supervisionados/SVM/svm.ipynb)
-    * [KNN com Distância Euclidiana](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/ML/Supervisionados/KNN/Euclidian/knn_euclidian.ipynb)
+    * [SVM](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/SVM/svm.ipynb)
+    * [KNN com Distância Euclidiana](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/KNN/Euclidian/knn_euclidian.ipynb)
 * [Modelos de Deep Learning](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/DL/)
   * [RNN](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/DL/RNN)
     * [LSTM](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/DL/RNN/LSTM/lstm.ipynb)
