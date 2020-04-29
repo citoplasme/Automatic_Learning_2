@@ -25,5 +25,5 @@ Como se trata de um problema de classificação, o grande objetivo deste projeto
     * [KNN com Distância Euclidiana](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/KNN/Euclidian/knn_euclidian.ipynb)
 * [Modelos de Deep Learning](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/DL/)
   * [RNN](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/DL/RNN)
-    * [LSTM](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/DL/RNN/LSTM/lstm.ipynb)
-  * [CNN](https://github.com/citoplasme/Automatic_Learning_2/edit/master/modelos/DL/CNN/cnn.ipynb)
+    * [LSTM](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/RNN/LSTM/LSTM.ipynb)
+  * [CNN](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN/CNN.ipynb)
