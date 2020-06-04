@@ -23,6 +23,7 @@ Como se trata de um problema de classificação, o grande objetivo deste projeto
     * [Spectral Clustering](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Nao_Supervisionados/Spectral_Clustering/spectral_clustering.ipynb)
   * [Supervisionados](https://github.com/citoplasme/Automatic_Learning_2/tree/master/Modelos/ML/Supervisionados)
     * [SVM](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/SVM/svm.ipynb)
+    * [SVM com Otimização de Hiperparâmetros](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/SVM/svm_otimizacao.ipynb)
     * [KNN com Distância de Minkowski](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/KNN/Minkowski/knn_minkowski.ipynb)
     * [KNN com Dynamic Time Warping](#) (Ainda não implementado)
     * [Random Forest](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/Random_Forest/random_forest.ipynb) 
