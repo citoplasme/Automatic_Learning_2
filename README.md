@@ -28,6 +28,7 @@ Como se trata de um problema de classificação, o grande objetivo deste projeto
     * [KNN com Distância de Minkowski](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/KNN/Minkowski/knn_minkowski.ipynb)
     * [KNN com Dynamic Time Warping](#) (Ainda não implementado)
     * [Random Forest](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/Random_Forest/random_forest.ipynb) 
+    * [Classificador SGD com Otimização de Hiperparâmetros](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/ML/Supervisionados/SGDClassifier/sgdclassifier_otimizacao.ipynb)
 * [Modelos de Deep Learning](https://github.com/citoplasme/Automatic_Learning_2/tree/master/Modelos/DL)
   * [RNN](https://github.com/citoplasme/Automatic_Learning_2/tree/master/Modelos/DL/RNN/)
     * [LSTM](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/RNN/LSTM/LSTM.ipynb)
