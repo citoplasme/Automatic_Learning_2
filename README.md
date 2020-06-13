@@ -38,7 +38,7 @@ Como se trata de um problema de classificação, o grande objetivo deste projeto
     * [CNN com Otimização de Hiperparâmetros](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN/cnn_otimizacao.ipynb)
   * [DNN](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/DNN/DNN.ipynb)
 
-### Conclusão
+### Conclusões e Trabalho Futuro
 
 Este repositório representa o resultado do trabalho prático da unidade curricular de Aprendizagem Automática II, do perfil de Ciência de Dados. Neste contexto foram abordados os passos referentes ao desenvolvimento e implementação de vários modelos que permitissem a classificação de estrelas, com base na presença de exoplanetas na sua órbita, tirando proveito da linguagem de programação *Python* e as suas bibliotecas.
 
