@@ -37,3 +37,13 @@ Como se trata de um problema de classificação, o grande objetivo deste projeto
     * [CNN Base](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN/CNN.ipynb)
     * [CNN com Otimização de Hiperparâmetros](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN/cnn_otimizacao.ipynb)
   * [DNN](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/DNN/DNN.ipynb)
+
+### Conclusão
+
+Este repositório representa o resultado do trabalho prático da unidade curricular de Aprendizagem Automática II, do perfil de Ciência de Dados. Neste contexto foram abordados os passos referentes ao desenvolvimento e implementação de vários modelos que permitissem a classificação de estrelas, com base na presença de exoplanetas na sua órbita, tirando proveito da linguagem de programação *Python* e as suas bibliotecas.
+
+No que toca aos vários modelos testados, foi possível constatar a melhor *performance* vinda de modelos apropriados para problemas com variações temporais, tais como redes *LSTM*, redes convolucionais e até mesmo classificadores lineares. Infelizmente, fruto do grande desbalanceamento de dados, especialmente no conjunto de teste, torna-se complicado comparar modelos. No entanto, apesar deste problema, os modelos desenvolvidos apresentaram resultados bastante bons, sendo que a existência de mais registos ou a execução de um método de *leave one out cross validation* poderiam permitir a obtenção de melhores resultados. 
+
+Além disso, não foi possível testar modelos com base em métricas de *Dynamic Time Warping*, sendo que estas poderiam trazer melhores análises dos dados, especialmente em contexto não supervisionado. Ainda sobre este, o desenvolvimento e teste de modelos com base em algoritmos alternativos poderia culminar em alguns resultados interessantes. 
+
+Em suma, a realização deste trabalho exigiu a aplicação de todos os conhecimentos lecionados em contexto de aula, bem como a pesquisa de novos métodos, permitindo o desenvolvimento de modelos de *Machine* e *Deep Learning* capazes de produzir resultados satisfatórios para o problema em questão.
