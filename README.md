@@ -32,5 +32,7 @@ Como se trata de um problema de classificação, o grande objetivo deste projeto
 * [Modelos de Deep Learning](https://github.com/citoplasme/Automatic_Learning_2/tree/master/Modelos/DL)
   * [RNN](https://github.com/citoplasme/Automatic_Learning_2/tree/master/Modelos/DL/RNN/)
     * [LSTM](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/RNN/LSTM/LSTM.ipynb)
-  * [CNN](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN/CNN.ipynb)
+  * [CNN](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN)
+    * [CNN Base](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN/CNN.ipynb)
+    * [CNN com Otimização de Hiperparâmetros](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/CNN/cnn_otimizacao.ipynb)
   * [DNN](https://github.com/citoplasme/Automatic_Learning_2/blob/master/Modelos/DL/DNN/DNN.ipynb)
